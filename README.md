@@ -22,6 +22,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AkshayTomer/DSA/tree/master/0009-palindrome-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AkshayTomer/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
