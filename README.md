@@ -19,4 +19,12 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AkshayTomer/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AkshayTomer/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AkshayTomer/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
