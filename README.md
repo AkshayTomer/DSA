@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AkshayTomer/DSA/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/AkshayTomer/DSA/tree/master/0016-3sum-closest) |
+| [0704-binary-search](https://github.com/AkshayTomer/DSA/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AkshayTomer/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/AkshayTomer/DSA/tree/master/0016-3sum-closest) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/AkshayTomer/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
