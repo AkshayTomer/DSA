@@ -18,6 +18,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/AkshayTomer/DSA/tree/master/0016-3sum-closest) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AkshayTomer/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AkshayTomer/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Simulation
 |  |
 | ------- |
@@ -39,4 +40,16 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/AkshayTomer/DSA/tree/master/0704-binary-search) |
+## String
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AkshayTomer/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AkshayTomer/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Greedy
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AkshayTomer/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
