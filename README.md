@@ -11,10 +11,12 @@
 | [0189-rotate-array](https://github.com/AkshayTomer/DSA/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/AkshayTomer/DSA/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AkshayTomer/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AkshayTomer/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AkshayTomer/DSA/tree/master/0001-two-sum) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AkshayTomer/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/AkshayTomer/DSA/tree/master/0016-3sum-closest) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AkshayTomer/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
 | ------- |
