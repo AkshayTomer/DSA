@@ -34,6 +34,7 @@
 | [0009-palindrome-number](https://github.com/AkshayTomer/DSA/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/AkshayTomer/DSA/tree/master/0189-rotate-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AkshayTomer/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AkshayTomer/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
 |  |
 | ------- |
