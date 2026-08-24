@@ -52,6 +52,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AkshayTomer/DSA/tree/master/0020-valid-parentheses) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AkshayTomer/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -61,4 +62,12 @@
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AkshayTomer/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AkshayTomer/DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AkshayTomer/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
