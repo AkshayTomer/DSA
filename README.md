@@ -12,6 +12,7 @@
 | [0704-binary-search](https://github.com/AkshayTomer/DSA/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AkshayTomer/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AkshayTomer/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3903-smallest-stable-index-i](https://github.com/AkshayTomer/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AkshayTomer/DSA/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/AkshayTomer/DSA/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
