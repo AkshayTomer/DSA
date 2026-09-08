@@ -36,6 +36,7 @@
 | [0189-rotate-array](https://github.com/AkshayTomer/DSA/tree/master/0189-rotate-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AkshayTomer/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AkshayTomer/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/AkshayTomer/DSA/tree/master/3870-count-commas-in-range) |
 ## Enumeration
 |  |
 | ------- |
